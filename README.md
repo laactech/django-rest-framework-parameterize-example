@@ -1,1 +1,1 @@
-# django-rest-framework-parameterize-example
+# Django Rest Framework Parameterized Tests Example
