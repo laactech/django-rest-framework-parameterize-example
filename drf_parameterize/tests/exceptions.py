@@ -1,0 +1,2 @@
+class NoSerializerClassFoundException(Exception):
+    pass
