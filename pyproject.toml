@@ -1,3 +1,8 @@
+[tool.pytest.ini_options]
+addopts = "--create-db --migrations"
+python_files = "test*.py *tests.py tests*.py *test.py"
+DJANGO_SETTINGS_MODULE = "config.settings"
+
 [tool.isort]
 known_third_party = ["django", "factory", "pytest", "rest_framework"]
 profile = "black"
