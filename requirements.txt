@@ -1,6 +1,6 @@
 asgiref==3.2.10
 attrs==19.3.0
-Django==3.0.8
+Django==3.1.6
 djangorestframework==3.11.0
 django-test-plus==1.4.0
 factory-boy==2.12.0
